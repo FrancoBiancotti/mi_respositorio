@@ -1,9 +1,0 @@
-setup.py
-compras/__init__.py
-compras/cliente.py
-compras/main.py
-compras/registro.py
-compras_cliente.egg-info/PKG-INFO
-compras_cliente.egg-info/SOURCES.txt
-compras_cliente.egg-info/dependency_links.txt
-compras_cliente.egg-info/top_level.txt
